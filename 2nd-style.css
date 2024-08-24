@@ -7,3 +7,13 @@ h1{
     text-align: center;
     text-decoration: underline green;
 }
+h2{
+    color: greenyellow;
+    text-align: center;
+    text-decoration: underline blue;
+}
+p{
+    color: yellow;
+    padding: 10px;
+    
+}
