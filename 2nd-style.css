@@ -15,5 +15,6 @@ h2{
 p{
     color: yellow;
     padding: 10px;
+    outline: auto;
 
 }
